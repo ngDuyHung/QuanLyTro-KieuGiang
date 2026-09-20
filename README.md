@@ -6,8 +6,10 @@
 
 Dự án được áp dụng kiến trúc tách biệt giữa giao diện người dùng (Frontend) và máy chủ xử lý nghiệp vụ (Backend) theo mô hình Client - Server. Mã nguồn được chia thành 2 phần:
 
-*   🖥️ **[Front-end Repository](https://github.com/ngDuyHung/QuanLyTro-Frontend)**: Giao diện người dùng được xây dựng bằng thư viện React kết hợp công nghệ PWA (Progressive Web App) để tối ưu trải nghiệm trên thiết bị di động. 
+*   🖥️ **[Front-end Repository](https://github.com/ngDuyHung/QuanLyTro-Frontend)**: Giao diện người dùng được xây dựng bằng thư viện React kết hợp công nghệ PWA (Progressive Web App) để tối ưu trải nghiệm trên thiết bị di động.
+*   Link Front-end: https://github.com/ngDuyHung/QuanLyTro-Frontend 
 *   ⚙️ **[Back-end Repository](https://github.com/ngDuyHung/QuanLyTro-Backend)**: Hệ thống RESTful API xử lý nghiệp vụ được xây dựng bằng ngôn ngữ PHP thông qua framework Laravel 12 và hệ quản trị cơ sở dữ liệu MySQL.
+*   Link Back-end: https://github.com/ngDuyHung/QuanLyTro-Backend
 
 ## 🚀 Các chức năng & Nghiệp vụ nổi bật
 
