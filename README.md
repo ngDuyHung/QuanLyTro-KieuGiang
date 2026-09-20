@@ -1,7 +1,13 @@
 # 🏢 Hệ thống Quản lý Nhà trọ Kiêu Giang
 
-Đây là dự án Luận văn tốt nghiệp chuyên ngành Công nghệ thông tin tại Trường Đại học Công nghệ Sài Gòn[cite: 1]. Hệ thống được thiết kế dưới dạng ứng dụng Web nhằm mục tiêu số hóa quy trình quản lý vận hành nội bộ cho nhà trọ, thay thế hoàn toàn việc ghi chép sổ tay và tính toán thủ công hiện tại.
+Đây là dự án Luận văn tốt nghiệp chuyên ngành Công nghệ thông tin tại Trường Đại học Công nghệ Sài Gòn. Hệ thống được thiết kế dưới dạng ứng dụng Web nhằm mục tiêu số hóa quy trình quản lý vận hành nội bộ cho nhà trọ, thay thế hoàn toàn việc ghi chép sổ tay và tính toán thủ công hiện tại.
 
+## 🌐 Triển khai thực tế (Live System)
+
+Hệ thống hiện đã được triển khai vận hành thực tế trên máy chủ trực tuyến và đang được cơ sở Nhà trọ Kiêu Giang đưa vào sử dụng chính thức. 
+*   **Đường dẫn truy cập**: [https://kg.duyhung.io.vn/](https://kg.duyhung.io.vn/)
+
+*(Lưu ý: Do đây là hệ thống quản lý nội bộ đang vận hành thực tế, việc đăng nhập và truy cập các phân hệ nghiệp vụ sẽ yêu cầu tài khoản được cấp quyền).*
 ## 🗂️ Cấu trúc dự án (Repositories)
 
 Dự án được áp dụng kiến trúc tách biệt giữa giao diện người dùng (Frontend) và máy chủ xử lý nghiệp vụ (Backend) theo mô hình Client - Server. Mã nguồn được chia thành 2 phần:
